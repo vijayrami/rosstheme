@@ -1,2 +1,4 @@
-# rosstheme
-Rosstheme Magento
+rosstheme
+=========
+
+Ross's theme
